@@ -42,7 +42,7 @@ export default function Home() {
                     >
                         <h3>Medium &rarr;</h3>
                         <p>
-                            Voir mon (humble) blog.
+                            Voir mon blog
                         </p>
                     </a>
                 </div>
