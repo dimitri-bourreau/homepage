@@ -1,2 +1,1 @@
-# homepage
-Next.js personal homepage
+Simple homepage about myself.
