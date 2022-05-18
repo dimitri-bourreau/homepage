@@ -13,10 +13,6 @@ export default function Home() {
                     Dimitri Bourreau
                 </h1>
 
-                <p className="description">
-                    <code>Développeur freelance</code> depuis 2019
-                </p>
-
                 <div className="grid">
                     <a href="https://github.com/dimitri-bourreau" className="card">
                         <h3>GitHub &rarr;</h3>
