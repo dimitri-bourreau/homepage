@@ -31,16 +31,6 @@ export default function Home() {
                         <h3>LinkedIn &rarr;</h3>
                         <p>Voir mon expérience, me contacter</p>
                     </a>
-
-                    <a
-                        href="https://medium.dimitribourreau.me/"
-                        className="card"
-                    >
-                        <h3>Medium &rarr;</h3>
-                        <p>
-                            Voir mon blog
-                        </p>
-                    </a>
                 </div>
             </main>
 
